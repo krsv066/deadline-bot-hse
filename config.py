@@ -1,0 +1,5 @@
+host = "localhost"
+user = "root"
+database = "mydb"
+password = "pass"
+TOKEN = "TOKEN"
